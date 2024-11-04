@@ -1,6 +1,9 @@
 # 286 Missing Number
 Given an array nums containing n distinct numbers in the range [0, n], return the only number in the range that is missing from the array.
 
+#### Tags 
+<span style="background-color: yellow;">Array</span>, <span style="background-color: yellow;">Hash Table</span>, <span style="background-color: yellow;">Math</span>, <span style="background-color: yellow;">Binary Search</span>, <span style="background-color: yellow;">Bit Manipulation</span>, <span style="background-color: yellow;">Sorting</span>
+
 #### Example 1:
 > **Input**: nums = [3, 0, 1]  
 > **Output**: 2  
